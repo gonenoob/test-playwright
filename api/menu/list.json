@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "code": "index",
+      "name": "总览"
+    },
+    {
+      "children": [
+        {
+          "code": "account",
+          "name": "账号管理"
+        }
+      ],
+      "code": "system",
+      "name": "系统管理"
+    }
+  ],
+  "retCode": 200,
+  "success": true
+}
